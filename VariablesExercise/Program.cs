@@ -11,7 +11,7 @@
             char initial = 'L';
             bool isSingle = true;
             
-            Console.WriteLine($"Name: {myName}\nAge: {age}\nAverage: {avg}\nMoney: {bankAccount}\nInitial: {initial}\nSingle: {isSingle}");;
+            Console.WriteLine($"Name: {myName}\nAge: {age}\nAverage: {avg}\nMoney: {bankAccount}\nInitial: {initial}\nSingle: {isSingle}");
 
         }
     }
